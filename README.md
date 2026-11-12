@@ -42,13 +42,12 @@ The proposed approach analyzes network traffic patterns to distinguish between b
 arp-spoofing-detection-ml/
 │
 ├── README.md
+│
 ├── paper/
 │   └── Detection_of_MITM_Attacks__A_Machine_Learning_Based_Framework.pdf
-├── notebooks/
-├── src/
-├── results/
-├── requirements.txt
-└── LICENSE
+│
+└── training-notebook/
+    └── hybrid-xg-lstm.ipynb
 ```
 
 ## Research Publication
